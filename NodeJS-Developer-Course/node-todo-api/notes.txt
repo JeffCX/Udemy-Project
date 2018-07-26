@@ -1,0 +1,60 @@
+for moogoose, use findOne instead of find if you just want to find one id
+use heroku addon to allocate an online mongoDB 
+
+config postman: manage enviornment and template the URL
+representational state transfer application programming interface
+
+send http request to server and server send back a reprensetation of the infos 
+
+apigee.com: a list of API
+Json Parser Online 
+
+setuup User model:
+use validator to validate email
+
+JSON web token: 
+JWT
+
+crypto-js:hash library
+
+header, payload ,hash use hash to verify the payload is never changed
+
+module method and instance method
+
+401 unauthroized
+
+crypotjs hashpassword
+
+mongoose middleware
+
+Promise.all([]),but resolve until all promises are resolved!
+need to call done before querying the database
+
+how to config your application
+
+use JSON file
+require JSON, automatically parse into an javascript object
+
+heroku config:unset
+heroku config:set
+
+mongoDB URL:
+username:password url port
+
+learn postman
+
+/user: create user,get token
+/users/me look at my infos
+/users/login login in and get token
+/logout remove the token
+
+todos:look at all todo list with token
+post:add new todo with token
+get todo by ID: get specific todo with token 
+delete todo by ID: delete specific todo with token 
+patch todo by ID: update specific todo with token
+
+jest client testing
+npm expect
+
+toBeFlasy()

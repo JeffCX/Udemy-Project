@@ -1,0 +1,25 @@
+stack, queue and nodeAPI
+
+install JSON view
+Over query limit:
+https://links.mead.io/api.fix
+
+how does http request works
+error,response,body
+response: with statusCode:200
+body:content
+header: content-type
+request:
+
+headers: node
+encodeURIComponent("1301 lo")
+
+pass callback argument in javascript function
+promise, return promise
+
+axios
+
+future idae:
+default location
+display more location
+save file system

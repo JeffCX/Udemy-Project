@@ -1,0 +1,12 @@
+{
+    "test":{
+        "PORT":3000,
+        "MONGODB_URI":"dasfsddfsa",
+        "JWT_SECRET":"dasfewafsdfds12asdfq2a;"
+    },
+    "development":{
+        "PORT":3000,
+        "MONGODB_URI":"dasfsddfsa",
+        "JWT_SECRET":"dasfewafsdfds12asdfq2a;"
+    }
+}
